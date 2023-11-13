@@ -15,6 +15,7 @@
   - **<u>TOKEN</u>**--push+ 的token，用于签到后发送微信通知 （http://www.pushplus.plus/）
   - **<u>CODE</u>**--邮件通知，可选
   - **<u>EMAIL</u>**--邮件通知地址，可选
+222
 
 #### 配置教程参数(Github-Secrets)
 
